@@ -6,5 +6,6 @@
 
 import { AppRegistry } from 'react-native';
 import BoxModelDemo from './BoxModelDemo';
+import FlexBoxLayout from './FlexBoxLayout';
 
-AppRegistry.registerComponent('HelloWorldReact', () => BoxModelDemo);
+AppRegistry.registerComponent('HelloWorldReact', () => FlexBoxLayout);
